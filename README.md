@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://imgur.com/a/xKRvYqx alt="logo" width=400 height=401 />
+<img src=https://imgur.com/Ijel9SO alt="logo" width=400 height=401 />
 
 <h1>Documentation and shared Projects</h1>
 <p>Here will be shared all the documentation, some will include source code to the boards, feel free to explore.</p>
@@ -21,9 +21,12 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://imgur.com/yxB1DzN" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://imgur.com/BuUDmaw" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/zt75BBB" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/39ZRtTe" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/LGpqtMq" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://imgur.com/7vWWVzA" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/jPajb32" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/wCyzVb6" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/rezljSQ" alt='image' width='800'/></a> </div>
@@ -38,6 +41,7 @@
 <div align="center"> <a href=""><img src="https://imgur.com/cPnJIcC" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/V5vHQbD" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/CU48VO1" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://imgur.com/vIbrGTN" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src="https://imgur.com/7x6N4oW" alt='image' width='800'/></a> </div>
 
 
