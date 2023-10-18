@@ -25,6 +25,7 @@
 - Mouse Jacking
 - Batch Mode
 - Scanner Mode
+- Sub-GHz Extender
 
 
 ### :art: Color Reference
