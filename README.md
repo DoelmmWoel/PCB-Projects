@@ -1,4 +1,4 @@
-<div align='center'>
+![69y6Bz7](https://github.com/DoelmmWoel/PCB-Projects/assets/141669553/2cc633bc-58af-4a0d-aae8-8b6f6532eea0)![69y6Bz7](https://github.com/DoelmmWoel/PCB-Projects/assets/141669553/183792be-46f8-4fdc-99b6-88b5239cfa19)<div align='center'>
 
 <img src=https://i.imgur.com/Ijel9SO.jpeg alt="logo" width=400 height=401 />
 
@@ -21,28 +21,20 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://imgur.com/yxB1DzN" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/BuUDmaw" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/zt75BBB" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/39ZRtTe" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/LGpqtMq" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/7vWWVzA" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/jPajb32" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/wCyzVb6" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/rezljSQ" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/r1nBnQu" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/N9BuJxy" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/c3zadJu" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/VRb7tOO" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/69y6Bz7" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/kmMGlZB" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/JxXUtTF" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/G73nai0" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/cPnJIcC" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/V5vHQbD" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/CU48VO1" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/vIbrGTN" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src="https://imgur.com/7x6N4oW" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/yxB1DzN.jpeg" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/BuUDmaw.jpeg" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/zt75BBB.jpeg" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/39ZRtTe.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/LGpqtMq.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/7vWWVzA.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/jPajb32.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/wCyzVb6.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/r1nBnQu.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/rezljSQ.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/N9BuJxy.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/c3zadJu.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/VRb7tOO.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://i.imgur.com/69y6Bz7.png" alt='image' width='800'/></a> </div>
 
 
 
