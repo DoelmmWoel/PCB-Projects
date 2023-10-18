@@ -1,5 +1,3 @@
-![69y6Bz7](https://github.com/DoelmmWoel/PCB-Projects/assets/141669553/2cc633bc-58af-4a0d-aae8-8b6f6532eea0)![69y6Bz7](https://github.com/DoelmmWoel/PCB-Projects/assets/141669553/183792be-46f8-4fdc-99b6-88b5239cfa19)<div align='center'>
-
 <img src=https://i.imgur.com/Ijel9SO.jpeg alt="logo" width=400 height=401 />
 
 <h1>Documentation and shared Projects</h1>
